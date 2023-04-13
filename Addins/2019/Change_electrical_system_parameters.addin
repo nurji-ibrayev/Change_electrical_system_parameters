@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Change electrical system parameters</Text>
+    <FullClassName>Change_electrical_system_parameters.Command</FullClassName>
+    <Description>Change electrical system parameters"</Description>
+    <Assembly>C:\Users\HKEY_CURRENT_USER\Desktop\Change_electrical_system_parameters\Change_electrical_system_parameters\bin\R2019\Change_electrical_system_parameters.dll</Assembly>
+    <AddInId>5736BF9A-8955-420E-BA7D-E2CD1B6745FE</AddInId>
+    <VendorId>NurJ</VendorId>
+    <VendorDescription>NurJ, Inc, nurji.ibrayev@gmail.com</VendorDescription>
+  </AddIn>
+
+  <AddIn Type="Application">
+    <Name>Change electrical system parameters</Name>
+    <FullClassName>Change_electrical_system_parameters.Application</FullClassName>
+    <Assembly>C:\Users\HKEY_CURRENT_USER\Desktop\Change_electrical_system_parameters\Change_electrical_system_parameters\bin\R2019\Change_electrical_system_parameters.dll</Assembly>
+    <AddInId>C5A55070-07B8-4D23-BB6D-ACE670E2835B</AddInId>
+    <VendorId>NurJ</VendorId>
+    <VendorDescription>NurJ, Inc, nurji.ibrayev@gmail.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

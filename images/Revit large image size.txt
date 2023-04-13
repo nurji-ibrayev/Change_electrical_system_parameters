@@ -1,0 +1,19 @@
+Revit Standarts:
+Size: 32x32px
+Resolution: 96dpi
+
+Other standarts:
+Size: 32x32px
+Resolution: 48dpi
+
+Size: 32x32px
+Resolution: 96dpi
+
+Size: 64x64px
+Resolution: 192dpi
+
+Size: 128x128px
+Resolution: 384dpi
+
+Size: 256x256px
+Resolution: 768dpi
