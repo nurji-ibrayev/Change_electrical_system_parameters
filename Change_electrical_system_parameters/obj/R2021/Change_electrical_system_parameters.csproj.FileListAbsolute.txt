@@ -1,0 +1,8 @@
+C:\Users\n.ibrayev\Desktop\Работа\Add-Ins\Revit\Change_electrical_system_parameters\Change_electrical_system_parameters\obj\R2021\Change_electrical_system_parameters.csproj.AssemblyReference.cache
+C:\Users\n.ibrayev\Desktop\Работа\Add-Ins\Revit\Change_electrical_system_parameters\Change_electrical_system_parameters\obj\R2021\Viewer.baml
+C:\Users\n.ibrayev\Desktop\Работа\Add-Ins\Revit\Change_electrical_system_parameters\Change_electrical_system_parameters\obj\R2021\Viewer.g.cs
+C:\Users\n.ibrayev\Desktop\Работа\Add-Ins\Revit\Change_electrical_system_parameters\Change_electrical_system_parameters\obj\R2021\Change_electrical_system_parameters_MarkupCompile.cache
+C:\Users\n.ibrayev\Desktop\Работа\Add-Ins\Revit\Change_electrical_system_parameters\Change_electrical_system_parameters\obj\R2021\Change_electrical_system_parameters.g.resources
+C:\Users\n.ibrayev\Desktop\Работа\Add-Ins\Revit\Change_electrical_system_parameters\Change_electrical_system_parameters\obj\R2021\Change_electrical_system_parameters.Properties.Resources.resources
+C:\Users\n.ibrayev\Desktop\Работа\Add-Ins\Revit\Change_electrical_system_parameters\Change_electrical_system_parameters\obj\R2021\Change_electrical_system_parameters.csproj.GenerateResource.cache
+C:\Users\n.ibrayev\Desktop\Работа\Add-Ins\Revit\Change_electrical_system_parameters\Change_electrical_system_parameters\obj\R2021\Change_electrical_system_parameters.csproj.CoreCompileInputs.cache
